@@ -13,3 +13,11 @@ La estructura y el contenido de la página se han desarrollado utilizando HTML p
 Responsividad:
 
 Gracias al uso de media queries y técnicas de diseño responsivo, la página se ajusta de manera elegante a diferentes resoluciones de pantalla, garantizando una visualización adecuada en una variedad de dispositivos.
+
+Contribuciones
+¡Tu contribución es bienvenida! Si deseas mejorar o ampliar esta página, sigue estos pasos:
+
+Realiza un fork del repositorio.
+Crea una nueva rama para tus cambios.
+Realiza tus modificaciones y asegúrate de seguir las buenas prácticas de codificación.
+Envía una solicitud de extracción.
